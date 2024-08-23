@@ -49,7 +49,7 @@ I welcome feedback and suggestions! If you have any ideas for new projects, impr
 
 ## Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/bayusedana/)
-- [GitHub](https://github.com/bayusedana26)
+- [LinkedIn](https://www.linkedin.com/in/bayusedana)
+- [Medium](https://medium.com/@bayusedana26)
 
 Thank you for visiting my MySQL Projects repository. Happy coding!
